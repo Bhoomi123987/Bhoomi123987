@@ -37,12 +37,6 @@ https://github.com/Bhoomi123987/Bhoomi123987/blob/main/Banner.png)
 - 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhoomi123987&show_icons=true&locale=en&layout=compact" alt="bhoomi123987" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhoomi123987&show_icons=true&locale=en" alt="bhoomi123987" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomi123987&" alt="bhoomi123987" /></p>
-
 
 
 
